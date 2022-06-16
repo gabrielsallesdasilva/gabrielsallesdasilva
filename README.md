@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<p style="font-color: red;"> Gabriel </p>
+<p style="color: red;"> Gabriel </p>
