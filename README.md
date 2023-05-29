@@ -2,8 +2,8 @@
 
 <p align="left"> 
   Olá, meu nome é Gabriel, mas todos me chamam pelo meu sobrenome, <strong>Salles</strong>. Estou estudando e me tornando um <strong>Desenvolvedor Full Stack!</strong>.<br><br>
-  Estudo na Growdev e busco por oportunidades para aplicar os conhecimento adquiridos! <br><br>
-  Ainda não possuo toda a experiência que eu gostaria na área de desenvolvimento, porém por trabalhar no ASAAS me proporcionou ter bastante contato com os times de tecnologias! <br><br>
+  Estudo na Rocketseat e busco por oportunidades para aplicar os conhecimento adquiridos! <br><br>
+  Ainda não possuo toda a experiência que eu gostaria na área de desenvolvimento, porém ter trabalhado no ASAAS me proporcionou ter bastante contato com os times de tecnologias! <br><br>
   Gosto de separar o meu tempo com sabedoria, estudo, trabalho, lazer e família. Amo passar tempo com minha esposa e planejar o nosso futuro cada dia mais.<br><br>
 </p>
 
